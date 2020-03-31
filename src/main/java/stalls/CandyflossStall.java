@@ -6,8 +6,4 @@ public class CandyflossStall extends Stall {
         super(name, ownerName, parkingSpot, rating);
     }
 
-    @Override
-    public int getRating() {
-        return 0;
-    }
 }
